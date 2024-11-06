@@ -283,6 +283,7 @@ $\sigma \bar{x} = \sigma x / \sqrt n$
 $\hat{p}$ = X1+X2+X3.../n$
 
     $\hat{p}$ = population proportion
+    
     X = number of success
     n =trial number
 
