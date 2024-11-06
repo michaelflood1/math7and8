@@ -280,7 +280,7 @@ $\sigma \bar{x} = \sigma x / \sqrt n$
 
 **sampling distribution**
 
-$\hat{p} = X1+X2+X3.../n$
+$\hat{p}$ = X1+X2+X3.../n$
 
     $\hat{p}$ = population proportion
     X = number of success
